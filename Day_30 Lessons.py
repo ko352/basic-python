@@ -11,3 +11,4 @@ def sum_numbers(number_list):
 scores = [10, 20, 30, 40, 50]
 result = sum_numbers(scores)
 print("ရရှိလာတဲ့ စုစုပေါင်းရလဒ်ကတော့:", result)
+#git
